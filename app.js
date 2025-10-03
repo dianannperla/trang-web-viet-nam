@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Trang Web Việt Nam đã sẵn sàng!');
+    console.log('The Vietnamese Web is ready!');
 });
