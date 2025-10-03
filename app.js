@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('The Vietnamese Web is ready!');
+    console.log('The application is fully loaded and ready to use!');
 });
