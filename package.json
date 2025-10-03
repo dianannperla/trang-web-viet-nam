@@ -1,0 +1,13 @@
+{
+    "name": "trang-web-viet-nam",
+    "version": "1.0.0",
+    "description": "Khung frontend cho thị trường Việt Nam",
+    "main": "index.html",
+    "scripts": {
+        "start": "live-server ."
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
+}
